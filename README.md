@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Aplication
 
-Click [Demo](hilmifauzan.github.io/movie_film_firebase) to go View Page Movie-Film. 
+Click [Demo](http://hilmifauzan.github.io/movie_film_firebase) to go View Page Movie-Film. 
 
 ## Preview Homepage
 
