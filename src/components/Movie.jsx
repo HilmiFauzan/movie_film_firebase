@@ -35,7 +35,15 @@ const Movie = ({item}) => {
 					{item?.title}
 				</p>
 				<p onClick={saveShow}>
-					{like ? <FaHeart className="absolute top-4 left-4 text-gray-300" /> : <FaRegHeart className="absolute top-4 left-4 text-gray-300" />}
+					{like ? <FaHeart className="absolute top-5 left-4 text-gray-300" /> : <FaRegHeart className="absolute top-5 left-4 text-gray-300" />}
+				</p>
+				<p>
+					<span className='absolute top-4 right-4 text-white'>
+						Rated &nbsp;
+						<span className='p-1 border border-red-700 rounded-full'>
+							{item?.vote_average}
+						</span>
+					</span>
 				</p>
 			</div>
 		</div>

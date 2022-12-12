@@ -1,4 +1,5 @@
 {
+  "//homepage": "https://hilmifauzan.github.io/movie_film_firebase",
   "name": "netflix_react_js",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d deploy",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,9 +44,15 @@
     ]
   },
   "devDependencies": {
+    "@svgr/webpack": "^6.2.1",
     "autoprefixer": "^10.4.12",
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.17",
     "tailwindcss": "^3.1.8"
+  },
+  "overrides": {
+    "react-scripts": {
+      "@svgr/webpack": "^6.5.1"
+    }
   }
 }
