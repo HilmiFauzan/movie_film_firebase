@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview Homepage
+
+<p align="center">
+  <b>This preview image from laptop</b>
+<br>
+
+<img src="https://user-images.githubusercontent.com/33944741/197376039-512b2517-a1af-46cd-953d-5e946aa6e149.png" width="750" title="hover text">
+
+</p>
+
+<p align="center">
+  <b>And This preview image from mobile phone</b>
+<br>
+
+<img src="https://user-images.githubusercontent.com/33944741/197376377-082c454a-ed92-4a5b-9bc6-2cb2161f69c1.png" width="350" title="hover text">
+
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
