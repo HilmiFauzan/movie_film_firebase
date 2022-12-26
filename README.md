@@ -9,15 +9,17 @@ Click [Demo](http://hilmifauzan.github.io/movie_film_firebase) to go View Page M
 ## Preview Homepage
 
 <p align="center">
-  <b>This preview image from laptop</b>
+  <b>This preview image from Mobile Phone</b>
 <br>
 
-![mobile](https://user-images.githubusercontent.com/33944741/209500200-46d69126-99a6-4245-91f6-45dad96d00ef.png)
-
+<center>
+  ![mobile](https://user-images.githubusercontent.com/33944741/209500200-46d69126-99a6-4245-91f6-45dad96d00ef.png)
+</center
+  
 </p>
 
 <p align="center">
-  <b>And This preview image from mobile phone</b>
+  <b>And This preview image from Laptop</b>
 <br>
 
 ![laptop](https://user-images.githubusercontent.com/33944741/209500137-d8aefd74-d093-40f8-9658-45e532b1b80f.png)
