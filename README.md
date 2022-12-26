@@ -11,12 +11,8 @@ Click [Demo](http://hilmifauzan.github.io/movie_film_firebase) to go View Page M
 <p align="center">
   <b>This preview image from Mobile Phone</b>
 <br>
-
-<center>
   
-  ![mobile](https://user-images.githubusercontent.com/33944741/209500200-46d69126-99a6-4245-91f6-45dad96d00ef.png)
-  
-</center
+![mobile](https://user-images.githubusercontent.com/33944741/209500200-46d69126-99a6-4245-91f6-45dad96d00ef.png)
   
 </p>
 
