@@ -12,7 +12,7 @@ Click [Demo](http://hilmifauzan.github.io/movie_film_firebase) to go View Page M
   <b>This preview image from laptop</b>
 <br>
 
-<img src="https://user-images.githubusercontent.com/33944741/197376039-512b2517-a1af-46cd-953d-5e946aa6e149.png" width="750" title="hover text">
+![mobile](https://user-images.githubusercontent.com/33944741/209500200-46d69126-99a6-4245-91f6-45dad96d00ef.png)
 
 </p>
 
@@ -20,7 +20,7 @@ Click [Demo](http://hilmifauzan.github.io/movie_film_firebase) to go View Page M
   <b>And This preview image from mobile phone</b>
 <br>
 
-<img src="https://user-images.githubusercontent.com/33944741/197376377-082c454a-ed92-4a5b-9bc6-2cb2161f69c1.png" width="350" title="hover text">
+![laptop](https://user-images.githubusercontent.com/33944741/209500137-d8aefd74-d093-40f8-9658-45e532b1b80f.png)
 
 </p>
 
